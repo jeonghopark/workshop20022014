@@ -1,3 +1,7 @@
+### addVertex
+![titlefile:///Users/jeonghopark/Documents/openFrameworksWorkshop2013/workshop20022014/landscapeImages/addVertex.png](landscapeImages/addVertex.png)
+### addIndex
+![titlefile:///Users/jeonghopark/Documents/openFrameworksWorkshop2013/workshop20022014/landscapeImages/addIndex.png](landscapeImages/addIndex.png)
 ### Plate Mesh
 ![titlefile:///Users/jeonghopark/Documents/openFrameworksWorkshop2013/workshop20022014/landscapeImages/plate_mesh.png](landscapeImages/plate_mesh.png)
 ### Random Mesh
